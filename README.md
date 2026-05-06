@@ -1,4 +1,5 @@
 # AceNORCET — AIIMS Nursing Officer Exam Prep
+🚀 Click here to View the Live App https://ace-norcet--aiDevKash.replit.app
 
 A free, mobile-first mock test platform for nursing professionals preparing for the **AIIMS NORCET (Nursing Officer Recruitment Common Eligibility Test)** examination.
 
